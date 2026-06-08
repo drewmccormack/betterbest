@@ -5,7 +5,7 @@ description: Use when you want to make an existing thing as good as it can be th
 
 # betterbest
 
-**You've already got good. This gets you the better and the best.**
+**You've got good. Go for best.** Polish and improve just about anything, from code to prose.
 
 betterbest is a **general-purpose adaptation of autoresearch**: you improve a *thing* by running
 **iterative experiments** on it. One experiment = change one thing, run a probe, read the result,

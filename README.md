@@ -1,6 +1,6 @@
 # betterbest
 
-**You've already got good. This gets you the better and the best.**
+**You've got good. Go for best.** Polish and improve just about anything, from code to prose.
 
 A [Claude Code](https://www.claude.com/product/claude-code) skill for making an existing thing as
 good as it can be through **iterative experiments** — a prompt, a config, a function, an agent
