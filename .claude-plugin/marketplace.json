@@ -1,0 +1,17 @@
+{
+  "name": "betterbest",
+  "owner": {
+    "name": "Drew McCormack",
+    "url": "https://github.com/drewmccormack"
+  },
+  "plugins": [
+    {
+      "name": "betterbest",
+      "source": ".",
+      "description": "You've already got good. Make anything as good as it can be through iterative experiments.",
+      "author": {
+        "name": "Drew McCormack"
+      }
+    }
+  ]
+}

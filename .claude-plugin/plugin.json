@@ -1,0 +1,13 @@
+{
+  "name": "betterbest",
+  "version": "1.0.0",
+  "description": "You've already got good. Make anything as good as it can be through iterative experiments — a general-purpose adaptation of LLM-driven autoresearch for arbitrary artefacts.",
+  "author": {
+    "name": "Drew McCormack",
+    "url": "https://github.com/drewmccormack"
+  },
+  "homepage": "https://github.com/drewmccormack/betterbest",
+  "repository": "https://github.com/drewmccormack/betterbest",
+  "license": "MIT",
+  "keywords": ["autoresearch", "iteration", "optimization", "skill", "rubric"]
+}

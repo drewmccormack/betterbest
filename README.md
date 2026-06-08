@@ -28,14 +28,22 @@ a co-evolving rubric. See [`SKILL.md`](./SKILL.md) for the full method.
 
 ## Install
 
-Clone into your Claude Code skills directory:
+**As a plugin (recommended):** in Claude Code, add the marketplace and install:
+
+```
+/plugin marketplace add drewmccormack/betterbest
+/plugin install betterbest@betterbest
+```
+
+**Or as a plain skill:** clone into your Claude Code skills directory:
 
 ```bash
 git clone https://github.com/drewmccormack/betterbest.git ~/.claude/skills/betterbest
 ```
 
-Claude Code discovers it automatically at startup. Then just ask Claude to "make X better",
-"improve this", or "iterate on this until it's good", and the skill activates.
+Either way, Claude Code discovers it automatically. Then just ask Claude to "make X better",
+"improve this", or "iterate on this until it's good", and the skill activates — or invoke it
+directly with `/betterbest`.
 
 ## Helper scripts
 
